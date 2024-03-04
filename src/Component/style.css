@@ -167,8 +167,6 @@ body{
 }
 .histotyheader span button{
     color: #f8f8f8;
-    background-color: rgba(241, 103, 68, 0.815);
-    /* background-color: #363636 ; */
     background-color: rgba(235, 101, 68, 0.815);
     border: none;
      outline: none;

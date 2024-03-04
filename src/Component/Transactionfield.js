@@ -32,7 +32,6 @@ else{
 
   setAmount('');
   setDescription('');
-  setType("INCOME");
 
   }
   
