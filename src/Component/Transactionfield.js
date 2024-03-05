@@ -80,7 +80,7 @@ else{
                                 checked={type === "EXPENSE"}
                                 onChange={(eve)=>{setType(eve.target.value)}} 
                                 ></input>
-                       <label>Expenses</label>
+                       <label>Expense</label>
                     </div>
                 
                 </div>
